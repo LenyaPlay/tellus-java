@@ -18,7 +18,6 @@ public class HttpHelper {
     private static final String HOST = "http://192.168.56.204";
 
     private HttpHelper(){
-        // Hide public constructor
     }
 
     public static void setHttpCliebt(OkHttpClient client){
